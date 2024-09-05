@@ -32,11 +32,16 @@ Contributing
 
 Code Inspirantions
 Winterfell GitHub Repository: https://github.com/facebook/winterfell/tree/main/verifier
+
 Winterfell official documentation: https://docs.rs/winterfell/latest/winterfell/index.html
+
 Stark articles: 
   https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71
+  
   https://starkware.co/wp-content/uploads/2022/05/STARK-paper.pdf
+  
   https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d
+  
   https://hackmd.io/@liamzebedee/H1ejQCoHj
   
 License
